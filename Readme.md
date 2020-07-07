@@ -4,11 +4,11 @@ README
 
 2. Build
 
-   `This program support make build. you should install  'make' and 'make-guile' on your linux`
+	`This program support make build. you should install  'make' and 'make-guile' on your linux`
 
-   `install : make  or make all`
+	`install : make  or make all`
 
-   `clean : make clean`
+	`clean : make clean`
 
 3. usage
 
